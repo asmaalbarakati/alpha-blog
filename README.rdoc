@@ -1,2 +1,3 @@
 this ia a repository for alpha blog
 first app in ruby in rails
+update
